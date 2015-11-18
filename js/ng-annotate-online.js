@@ -1,2 +1,1 @@
-window.ngAnnotate = require('ng-annotate');
-//test 2
+window.ngAnnotate = require('ng-annotate');var a = 1;
