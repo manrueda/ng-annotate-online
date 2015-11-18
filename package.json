@@ -1,0 +1,24 @@
+{
+  "name": "ng-annotate-online",
+  "version": "0.0.1",
+  "description": "ng-annotate online implementation to quick tests",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManRueda/ng-annotate-online.git"
+  },
+  "author": "Manuel Rueda <manuel.rueda.un@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ManRueda/ng-annotate-online/issues"
+  },
+  "homepage": "https://github.com/ManRueda/ng-annotate-online#readme",
+  "dependencies": {
+    "browserify": "^12.0.1",
+    "ng-annotate": "^1.0.2",
+    "uglifyify": "^3.0.1"
+  }
+}
