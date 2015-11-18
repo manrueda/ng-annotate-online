@@ -1,2 +1,2 @@
 window.ngAnnotate = require('ng-annotate');
-//test1
+//test2
