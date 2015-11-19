@@ -1,0 +1,15 @@
+#preCode{
+  height: 50rem;
+  margin-top: 0;
+}
+
+#originalCode{
+  height: 50rem;
+}
+
+#process{
+  margin-top: -5rem;
+  float: right;
+  margin-right: 11rem;
+  position: relative;
+}
